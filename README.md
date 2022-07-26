@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Front-end Projects**
 
-- 📫 How to reach me **rotcivnjenga@gmail.com**
+- 📫 How to reach me **info@civrot.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
