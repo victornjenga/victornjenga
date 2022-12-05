@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript,Python**
 
-- 👯 I’m looking to collaborate on **Front-end Projects**
+- 👯 I’m looking to collaborate on **Front-end and Backend Projects**
 
 - 📫 How to reach me **info@civrot.com**
 
