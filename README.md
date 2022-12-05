@@ -24,7 +24,7 @@ height="40"/>
 </a>
 
 <a href="https://cloud.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
  alt="tailwind" 
 width="40" 
 height="40"/>
